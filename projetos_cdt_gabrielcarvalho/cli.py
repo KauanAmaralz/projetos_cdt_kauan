@@ -1,5 +1,5 @@
 import sys
-from validacao import validar_cpf, validar_email
+from validators import validar_cpf, validar_email
 
 def obter_dados_aluno():
     print("\n" + "="*40)
